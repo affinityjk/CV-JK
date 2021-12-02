@@ -46,7 +46,7 @@ img {
 }
 
 .about-me-container {
-  padding: 20px 30px 20px;
+  padding: 40px 25px 35px;
 }
 
 .sidebar-container {
@@ -84,10 +84,6 @@ img {
   color: #ff6b08;
 }
 
-/* .sidebar-container-list {
-  color: #ff6b08;
-} */
-
 .sidebar-container-text {
   color: #cdd0d3;
 }
@@ -95,8 +91,8 @@ img {
 .profession {
   font-size: 14px;
   font-weight: 700;
-  line-height: 1.71;
-  margin-bottom: 10px;
+  line-height: 1.5;
+  margin-bottom: 5px;
 }
 
 .name {
@@ -108,34 +104,34 @@ img {
 .introduction {
   font-size: 12px;
   font-weight: 500;
-  line-height: 1.71;
+  line-height: 1.5;
 }
 
 .info-container {
-  margin-bottom: 30px;
+  padding-bottom: 20px;
 }
 
 .about-me-title {
   font-size: 20px;
   font-weight: 700;
   line-height: 1.09;
-  margin-bottom: 15px;
-  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-top: 5px;
 }
 
 .projects-link {
   color: #595959;
-  font-size: 12px;
+  font-size: 10px;
   font-weight: 400;
   line-height: 1.5;
 }
 
 .projects-item:last-child {
-  margin-bottom: 10px;
+  margin-bottom: 5px;
 }
 
 .projects-list {
-  margin-bottom: 10px;
+  margin-bottom: 5px;
   list-style: none;
 }
 
